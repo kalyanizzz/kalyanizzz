@@ -11,7 +11,7 @@ As I continue to grow, I'm actively expanding my knowledge in data science, lear
 **Deep Learning**: TensorFlow, Keras, PyTorch, CNNs, RNNs, Autoencoders  
 **Large Language Models**: Transformers, BERT, GPT, LangChain, Agentic frameworks  
 **Cloud & Big Data**: AWS, Snowflake, Apache Spark, Hadoop  
-**MLOps & Pipelines**: Airflow, MLflow, Docker (basic), GitHub Actions  
+**Pipelines**: Airflow, MLflow, Docker (basic), GitHub Actions  
 **Visualization**: Power BI, Tableau, Matplotlib, Seaborn, Plotly
 **Other Tools**: TalentLMS, Excel
 
