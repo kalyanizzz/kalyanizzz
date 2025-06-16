@@ -1,6 +1,6 @@
 # Hi, I'm Kalyani Zope
 
-I'm a data analyst currently pursuing my Master's in Data Analytics at San José State University. I am passionate about exploring patterns, solving problems, and generating insights from data.
+I am a data enthusiast, currently pursuing an MS in Data Intelligence at San José State University. I am passionate about exploring patterns, solving problems, and generating insights from data.
 
 As I continue to grow, I'm actively expanding my knowledge in data science, learning to build better models, ask smarter questions, and work with tools that bring value to decision-making. My work spans data visualization, statistical analysis, machine learning, and scalable cloud-based systems.
 
