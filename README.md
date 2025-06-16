@@ -6,10 +6,14 @@ As I continue to grow, I'm actively expanding my knowledge in data science, lear
 
 ## Technical Skills
 
-**Languages**: Python, SQL, JavaScript, HTML, CSS  
-**Data Tools**: Power BI, Tableau, Excel, Pandas, Matplotlib  
-**Big Data & Cloud**: Apache Spark, Snowflake, AWS, Hadoop  
-**Other Tools**: Git, Jupyter Notebooks, Airflow, TalentLMS  
+**Languages & Tools**: Python, SQL, JavaScript, Git, Jupyter Notebooks  
+**Machine Learning**: Linear & Logistic Regression, Decision Trees, Random Forests, Gradient Boosting (XGBoost, LightGBM), K-Nearest Neighbors (KNN), Naive Bayes, K-Means Clustering, DBSCAN, Principal Component Analysis (PCA), t-SNE, Time Series Forecasting (ARIMA, Prophet)
+**Deep Learning**: TensorFlow, Keras, PyTorch, CNNs, RNNs, Autoencoders  
+**Large Language Models**: Transformers, BERT, GPT, LangChain, Agentic frameworks  
+**Cloud & Big Data**: AWS, Snowflake, Apache Spark, Hadoop  
+**MLOps & Pipelines**: Airflow, MLflow, Docker (basic), GitHub Actions  
+**Visualization**: Power BI, Tableau, Matplotlib, Seaborn, Plotly
+**Other Tools**: TalentLMS, Excel
 
 ## Let's Connect
 
