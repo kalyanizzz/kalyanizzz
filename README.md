@@ -8,6 +8,7 @@ As I continue to grow, I'm actively expanding my knowledge in data science, lear
 
 **Languages & Tools**: Python, SQL, JavaScript, Git, Jupyter Notebooks  
 **Machine Learning**: Linear & Logistic Regression, Decision Trees, Random Forests, Gradient Boosting (XGBoost, LightGBM), K-Nearest Neighbors (KNN), Naive Bayes, K-Means Clustering, DBSCAN, Principal Component Analysis (PCA), t-SNE, Time Series Forecasting (ARIMA, Prophet)
+
 **Deep Learning**: TensorFlow, Keras, PyTorch, CNNs, RNNs, Autoencoders  
 **Large Language Models**: Transformers, BERT, GPT, LangChain, Agentic frameworks  
 **Cloud & Big Data**: AWS, Snowflake, Apache Spark, Hadoop  
